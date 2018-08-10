@@ -10,7 +10,7 @@ export class HomeComponent implements OnInit {
 
     constructor(page:Page) {
         // hidden action bar
-        page.actionBarHidden = true;
+        // page.actionBarHidden = true;
     }
     ngOnInit(): void {
     }
